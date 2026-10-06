@@ -1,0 +1,10 @@
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.vcxproj.AssemblyReference.cache
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.MyForm.resources
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.vcxproj.GenerateResource.cache
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.vcxproj.Up2Date
+C:\Users\20109\Downloads\CSC103\alarary\alarary\x64\Debug\alarary.tryyyy.resources
+F:\Ahmed\University\Freshman Year\Second Semester\103 Project\alarary-main\alarary\alarary\x64\Debug\alarary.vcxproj.AssemblyReference.cache
+F:\Ahmed\University\Freshman Year\Second Semester\103 Project\alarary-main\alarary\alarary\x64\Debug\alarary.vcxproj.GenerateResource.cache
+F:\Ahmed\University\Freshman Year\Second Semester\103 Project\alarary-main\alarary\alarary\x64\Debug\alarary.vcxproj.Up2Date
+F:\Ahmed\University\Freshman Year\Second Semester\103 Project\alarary-main\alarary\alarary\x64\Debug\alarary.Cashier.resources
+F:\Ahmed\University\Freshman Year\Second Semester\103 Project\alarary-main\alarary\alarary\x64\Debug\alarary.savy_maily.resources

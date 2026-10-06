@@ -1,0 +1,52 @@
+
+----- INVOICE FOR BILL # 1 -----
+   Item   |  Quant.  | Price | Total
+Chicken Breast |   24   |  165  |  5940
+
+Total: 5940.000000
+Status: PAID
+Welcome to Alarnab Alga2e3!
+
+===============================
+
+----- INVOICE FOR BILL # 1 -----
+   Item   |  Quant.  | Price | Total
+
+Total: 0.000000
+Status: PAID
+Welcome to Alarnab Alga2e3!
+
+===============================
+
+----- INVOICE FOR BILL # 2 -----
+   Item   |  Quant.  | Price | Total
+
+Total: 0.000000
+Status: PAID
+Welcome to Alarnab Alga2e3!
+
+===============================
+
+----- INVOICE FOR BILL # 1 -----
+   Item   |  Quant.  | Price | Total
+Cheese Cheddar |   21   |  85  |  1785
+Yogurt Plain |   21   |  10  |  210
+Butter 200g |   21   |  70  |  1470
+Eggs 30 Pack |   63   |  95  |  7980
+Chicken Breast |   55   |  165  |  9240
+
+Total: 20685.000000
+Status: PAID
+Welcome to Alarnab Alga2e3!
+
+===============================
+
+----- INVOICE FOR BILL # 1 -----
+   Item   |  Quant.  | Price | Total
+Chicken Breast |   55   |  165  |  17490
+
+Total: 17490.000000
+Status: PAID
+Welcome to Alarnab Alga2e3!
+
+===============================

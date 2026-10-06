@@ -1,0 +1,36 @@
+
+----- INVOICE FOR BILL # 1 -----
+   Item   |  Quant.  | Price | Total
+
+Total: 1020.000000
+Status: PAID
+Welcome to Alarnab Alga2e3!
+
+===============================
+
+----- INVOICE FOR BILL # 1 -----
+   Item   |  Quant.  | Price | Total
+
+Total: 1020.000000
+Status: PAID
+Welcome to Alarnab Alga2e3!
+
+===============================
+
+----- INVOICE FOR BILL # 1 -----
+   Item   |  Quant.  | Price | Total
+
+Total: 5100.000000
+Status: PAID
+Welcome to Alarnab Alga2e3!
+
+===============================
+
+----- INVOICE FOR BILL # 1 -----
+   Item   |  Quant.  | Price | Total
+
+Total: 1020.000000
+Status: PAID
+Welcome to Alarnab Alga2e3!
+
+===============================

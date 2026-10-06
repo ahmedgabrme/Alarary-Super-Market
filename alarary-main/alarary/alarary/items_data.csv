@@ -1,0 +1,70 @@
+barcode;name;category;quantity;price;sold_items
+847392105;Milk 1L;Dairy;120;25.5;45
+1;Cheese Cheddar;Dairy;24;85;18
+2;Yogurt Plain;Dairy;188;10;96
+3;Butter 200g;Dairy;4;70;12
+4;Eggs 30 Pack;Dairy;0;95;33
+5;Chicken Breast;Meat;0;165;21
+6;Beef Mince;Meat;18;220;14
+918273645;Lamb Chops;Meat;20;310;7
+564738291;Sausages;Meat;80;90;29
+203948576;Frozen Chicken;Meat;45;180;19
+675849302;Rice 1kg;Grains;300;28;140
+384756291;Pasta 500g;Grains;250;18.5;110
+918374650;Flour 1kg;Grains;190;22;84
+572910384;Sugar 1kg;Grains;210;27;92
+394857201;Lentils 1kg;Grains;140;35;51
+120948375;Bread White;Bakery;400;5;260
+857392014;Bread Brown;Bakery;350;6;215
+492857301;Croissant;Bakery;180;7.5;96
+738291045;Cake Chocolate;Bakery;25;65;9
+205948173;Biscuits Butter;Bakery;160;15;67
+918374205;Apple 1kg;Fruits;220;30;104
+374829105;Banana 1kg;Fruits;240;27;121
+563920847;Orange 1kg;Fruits;300;20;165
+847291036;Grapes 1kg;Fruits;150;45;62
+291047583;Mango;Fruits;200;18;97
+374910285;Tomato 1kg;Vegetables;350;12;178
+847392610;Potato 1kg;Vegetables;400;10;230
+205918374;Onion 1kg;Vegetables;380;9;204
+938475201;Cucumber 1kg;Vegetables;260;11;119
+572910846;Carrot 1kg;Vegetables;240;13;108
+847205193;Cola 1L;Beverages;300;14;167
+293847501;Orange Juice;Beverages;220;18;103
+104938572;Water 1.5L;Beverages;500;5;320
+572039184;Energy Drink;Beverages;140;22;66
+384756920;Tea Bags;Beverages;180;30;71
+918204573;Coffee Instant;Beverages;90;65;39
+274839105;Chocolate Bar;Snacks;270;12;143
+593847201;Chips Salted;Snacks;320;10;189
+847392501;Popcorn;Snacks;290;8;172
+192847305;Peanuts;Snacks;210;15;98
+374910582;Wafer Biscuit;Snacks;340;7;201
+847593102;Shampoo 400ml;Personal Care;120;55;48
+293847561;Soap Bar;Personal Care;500;8;312
+918374502;Toothpaste;Personal Care;260;25;121
+104857392;Deodorant;Personal Care;140;45;63
+384920175;Detergent Powder;Cleaning;130;60;52
+918273504;Dish Soap;Cleaning;210;22;97
+572849301;Floor Cleaner;Cleaning;160;35;74
+293847105;Bleach;Cleaning;190;18;83
+739201845;Smartphone Charger;Electronics;90;120;34
+384920761;USB Cable;Electronics;150;45;78
+918374921;Wireless Mouse;Electronics;70;180;29
+572901384;Keyboard;Electronics;60;250;21
+294857103;LED TV 42inch;Electronics;15;6500;6
+847201936;Notebook A4;Stationery;400;6;260
+293847651;Ballpoint Pen;Stationery;800;2.5;510
+918204765;Marker Pen;Stationery;300;8;140
+572839104;Stapler;Stationery;120;35;54
+384920651;Paper Ream;Stationery;90;75;38
+847392871;Men T-Shirt;Clothing;150;120;67
+293847921;Women Blouse;Clothing;110;180;49
+918273984;Jeans Pants;Clothing;95;350;41
+572910845;Jacket Winter;Clothing;60;750;19
+384756981;Socks Pair;Clothing;300;25;162
+739201945;Football;Sports;80;220;31
+294857293;Basketball;Sports;70;240;28
+918374293;Tennis Racket;Sports;40;680;14
+572901947;Skipping Rope;Sports;150;55;72
+384920847;Gym Gloves;Sports;90;95;36
